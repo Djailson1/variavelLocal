@@ -8,7 +8,7 @@ public class ExercicioJava {
 	int local = 10;
 	  System.out.println(local);
 	  alg2();
-	  System.out.println(global);
+	  System.out.println(global );
 	  
 	  //imprimindo local e global no método de inicialização main
 	  
